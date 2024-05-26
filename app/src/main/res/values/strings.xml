@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiAplicacion</string>
+    <string name="title_example">Ejemplo Google Maps</string>
+    <string name="button_add_marker">Agregar Marcador</string>
+    <string name="button_zoom_in">+</string>
+    <string name="button_zoom_out">-</string>
+    <string name="button_change_map_type">Cambiar Mapa</string>
+</resources>
